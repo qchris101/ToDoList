@@ -5,3 +5,10 @@
     height: 100vh;
 }
 
+#todoInput{
+    border-radius: 5px;
+}
+
+button{
+    margin: 5px
+}
